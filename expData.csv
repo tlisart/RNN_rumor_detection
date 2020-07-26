@@ -1,0 +1,1 @@
+opt arch MaxEpochs E(test_accuracy) S(test_accuracy) E(train_accuracy) S(train_accuracy) E(val_accuracy) E(loss) nb(experiments) lr embedding K reg dropout
